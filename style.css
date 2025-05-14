@@ -1,0 +1,26 @@
+
+body {
+    font-family: sans-serif;
+    direction: rtl;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #0077aa;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+main {
+    padding: 2rem;
+}
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
